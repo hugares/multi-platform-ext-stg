@@ -1,3 +1,3 @@
-module github.com/devfile-samples/devfile-sample-go-basic
+module github.com/hugares/multi-platform-ext-stg
 
-go 1.16
+go 1.21
